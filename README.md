@@ -1,8 +1,8 @@
 ![fiap logo](/images/fiap_logo.jpg)
 
-# DevOps e Infraestrutura como Código	 - 25ATI
+# DevOps e Infraestrutura como Código	 - 26ATI
 
-Bem vindo ao material de laboratório elaborado para o curso de **DevOps e Infraestrutura como Código** da turma **25ATI**!
+Bem vindo ao material de laboratório elaborado para o curso de **DevOps e Infraestrutura como Código** da turma **26ATI**!
 
 Aqui você vai encontrar todo o conteúdo e passos para a execução dos laboratórios em sala de aula, utilizando os conceitos apresentados pela disciplina.
 
