@@ -23,7 +23,7 @@ Em seu Chef Server, execute o seguinte comando para realizar o download do pacot
 
 Aguarde o processo de download do arquivo, e quando o mesmo for completado, instale o Chef Server utilizando o seguinte comando:
 
-    $ sudo dpkg -i chef-server-core_12.17.33-1_amd64.deb 
+    $ sudo dpkg -i chef-server-core_12.17.33-1_amd64.deb
 
 >Por se tratar da instalação de um pacote, precisaremos utilizar um usuário com permissões de `root`. Por isso o uso do comando `sudo`.
 
@@ -67,7 +67,7 @@ Agora, vamos criar um novo usuário para acessarmos a interface de administraç�
 
 > Lembre-se de substituir o comando, inserindo seu nome e endereço de email.
 
-Uma vez executados os passos para a instalação do Chef Server e dos módulos adicionais, acesse o servidor através de seu browser. Você deverá ser direcionado para a tela de login do Chef Server. Utilize o usuário e senha que acabou de criar para realizar o primeiro acesso:
+Uma vez executados os passos para a instalação do Chef Server e dos módulos adicionais, acesse o servidor através de seu browser utilizando a URL `https://localhost:92/login`. Você deverá ser direcionado para a tela de login do Chef Server. Utilize o usuário e senha que acabou de criar para realizar o primeiro acesso:
 
 ![chef server login](/04-InstalacaoChefServer/images/chef_server_login.png)
 
