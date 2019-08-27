@@ -71,6 +71,8 @@ Uma vez executados os passos para a instalação do Chef Server e dos módulos a
 
 ![chef server login](/04-InstalacaoChefServer/images/chef_server_login.png)
 
+>Após realizar o login, você será redirecionado para uma página de erro do Browser. Adicione novamente a porta 92 à URL e tente realizar novo acesso que você estará apto a continuar com o laboratório.
+
 ## 3. Criação de uma organização
 
 No Chef Server, uma `organização` é uma entidade utilizada para controlar os acessos. cada organização contém grupos padrão, pelo menos um usuário e um nó onde o chef-client é instalado.
