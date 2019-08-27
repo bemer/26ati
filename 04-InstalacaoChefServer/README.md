@@ -23,7 +23,7 @@ Em seu Chef Server, execute o seguinte comando para realizar o download do pacot
 
 Aguarde o processo de download do arquivo, e quando o mesmo for completado, instale o Chef Server utilizando o seguinte comando:
 
-    $ sudo dpkg -i chef-server-core_12.17.33-1_amd64.deb
+    $ sudo dpkg -i chef-server-core_12.17.33-1_amd64.deb 
 
 >Por se tratar da instalação de um pacote, precisaremos utilizar um usuário com permissões de `root`. Por isso o uso do comando `sudo`.
 
