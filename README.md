@@ -27,3 +27,4 @@ Você deverá executar o laboratório na seguinte ordem:
 * [6. Criando Chef Cookbooks](/06-CriandoCookbooks/)
 * [7. Instalando o Apache através do Chef Server](/07-InstalandoApache/)
 * [8. Começando com o Ansible](08-ComecandoComAnsible)
+* [9. Começando com o Puppet](09-ComecandoComPuppet)
