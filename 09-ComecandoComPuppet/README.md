@@ -6,6 +6,9 @@ Ao trabalhar com o `Puppet`, você pode escolher entre basicamente duas arquitet
 
 Neste tutorial, utilizaremos a arquitetura client-server, instalando e configurando o `Puppet Server` e instalando `Puppet Agents` em containers que irão simular máquinas virtuais.
 
+| Usuário | Senha   |
+|---------|-------------------|
+| puppet-admin  | puppetserver |
 
 ## 1. Instalação do Puppet Master
 
