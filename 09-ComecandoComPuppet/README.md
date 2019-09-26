@@ -24,7 +24,7 @@ Agora, vamos instalar o `Puppet Master` através do seguinte comando:
 
     $ sudo apt-get install puppetserver -y
 
-Após finalizarmos a instalação do Master, vamos editar as configurações de alocação de memória do Puppet Master. Para isto, edite o arquivo `/etc/default/puppetserver` alterando a linha `9` de
+Após finalizarmos a instalação do Master, vamos editar as configurações de alocação de memória do Puppet Master. Para isto, edite o arquivo `puppetserver` através do comando ` sudo vi /etc/default/puppetserver` e altere a linha `9` de
 
     JAVA_ARGS="-Xms2g -Xmx2g -XX:MaxPermSize=256m"
 
